@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1578441656 source:c:\users\asus\desktop\developpement web\project c\gestion des etudiants\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
